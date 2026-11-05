@@ -1,10 +1,10 @@
-# Personvern / privacy – JT apps
+# Personvern / privacy
 
-Personvernerklæringer for appene i Google Play, publisert med GitHub Pages:
+Personvernerklæringer for appene mine i Google Play, publisert med GitHub Pages fra `main`.
 
-| App | Adresse |
-|---|---|
-| BibelQuiz | https://jakobtrydal-ops.github.io/bibelquiz-personvern/ |
-| Oppgavetavla / Family Chore Board | https://jakobtrydal-ops.github.io/bibelquiz-personvern/oppgavetavla/ |
+| App | Mappe | Adresse |
+|---|---|---|
+| BibelQuiz | `bibelquiz/` | https://jakobtrydal-ops.github.io/personvern/bibelquiz/ |
+| Oppgavetavla / Family Chore Board | `oppgavetavla/` | https://jakobtrydal-ops.github.io/personvern/oppgavetavla/ |
 
-Ny app: lag en ny mappe med en `index.html`. Ikke flytt eller endre navn på de eksisterende, for adressene er registrert i Google Play.
+Forsiden (`index.html`) lister alle appene. Ny app: lag en ny mappe med en `index.html` og legg den til i lista. Ikke endre navn på mapper som er registrert i Google Play.
