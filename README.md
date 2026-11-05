@@ -1,4 +1,10 @@
-# BibelQuiz – personvern / privacy
+# Personvern / privacy
 
-Personvernerklæringen for appen BibelQuiz i Google Play:
-https://jakobtrydal-ops.github.io/bibelquiz-personvern/
+Personvernerklæringer for appene mine i Google Play, publisert med GitHub Pages fra `main`.
+
+| App | Mappe | Adresse |
+|---|---|---|
+| BibelQuiz | `bibelquiz/` | https://jakobtrydal-ops.github.io/personvern/bibelquiz/ |
+| Oppgavetavla / Family Chore Board | `oppgavetavla/` | https://jakobtrydal-ops.github.io/personvern/oppgavetavla/ |
+
+Forsiden (`index.html`) lister alle appene. Ny app: lag en ny mappe med en `index.html` og legg den til i lista. Ikke endre navn på mapper som er registrert i Google Play.
