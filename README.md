@@ -5,6 +5,7 @@ Personvernerklæringer for appene mine i Google Play, publisert med GitHub Pages
 | App | Mappe | Adresse |
 |---|---|---|
 | BibelQuiz | `bibelquiz/` | https://jakobtrydal-ops.github.io/personvern/bibelquiz/ |
+| David and Goliath | `david-and-goliath/` | https://jakobtrydal-ops.github.io/personvern/david-and-goliath/ |
 | Oppgavetavla / Family Chore Board | `oppgavetavla/` | https://jakobtrydal-ops.github.io/personvern/oppgavetavla/ |
 | Pilgrim Rush | `pilgrim-rush/` | https://jakobtrydal-ops.github.io/personvern/pilgrim-rush/ |
 
