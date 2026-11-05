@@ -6,5 +6,6 @@ Personvernerklæringer for appene mine i Google Play, publisert med GitHub Pages
 |---|---|---|
 | BibelQuiz | `bibelquiz/` | https://jakobtrydal-ops.github.io/personvern/bibelquiz/ |
 | Oppgavetavla / Family Chore Board | `oppgavetavla/` | https://jakobtrydal-ops.github.io/personvern/oppgavetavla/ |
+| Pilgrim Rush | `pilgrim-rush/` | https://jakobtrydal-ops.github.io/personvern/pilgrim-rush/ |
 
 Forsiden (`index.html`) lister alle appene. Ny app: lag en ny mappe med en `index.html` og legg den til i lista. Ikke endre navn på mapper som er registrert i Google Play.
